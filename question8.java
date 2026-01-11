@@ -11,7 +11,7 @@ public class question8 {
         System.out.print("b:");
         b = scan.nextDouble();
         double c;
-        System.out.print("c:3.5");
+        System.out.print("c:");
         c = scan.nextDouble();
         double s;
         s = (a + b + c) / 2;
@@ -20,4 +20,5 @@ public class question8 {
         System.out.println("the perimeter of triangle is");
         System.out.println(perimeter);
     }
+
 }
